@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/14c530a2d4cff5702d6d96754db23bd0166171cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_398be61743df1d81d0015c0f30dcb524cd24c575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/a62fc838be367cc51a20945b0028e14f86925a47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_00388f2b76dc76bf3e8fbe62cfb5271998b87d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/9b245cad6f2d38bcc6fff9676971195ca1d83075/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_8659fa4d93183f498a5566712e1c9fdbd3794b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/df9278fce6e1091a125cb373030c9da0e33b6c46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_2919082b3bbe8bd089780034cef95b1df8d42e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/846069fa720e6a3dbde33dc450c0fdec886a2e5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_1a9832625a05cd61aa4050f94b40db7a627266b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_729ae14e31d3d762654c08960358522eddcb0635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/xutils/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935c866c994696e0e21fd3116c6933898ed1e4af">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_b298e27e5a8805e77c65cb0e6dac5ad392fa18d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/bc72e68e280cbca8760511eee7ddd39852e9d041/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_c236311ba15c5c1a3f5274488469dfd943ff307b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/f89842ada9ece5f9d6d976cd3d4020afb4bc8974/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_8079f3bb78ff2e010fafd4ab3fd8bae25318b1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/337e5ca5fa7d22bc1480890225a8eaf2dcc115df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_7e832819671858d8f46b6b246bf71dc057fbe74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/40acab054fe7b2f3a5b06ee72b69e4275848a341/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_ad84cfeb5981c5d0b973b640930e3e80a48f9382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/ef70d0671610fbe6af83661a1704b4052d4574d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_37b8c14306f6eb01dfe5c9344a02fa579d767749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/5d78f42d0034b69d556cacaca504a36fe65a2554/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_ee94b62285b1af2c9863c7d52c2af9414c514005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangfei/.android/build-cache/4e587ef6ef0d5fdb34b57e77cd970196f76228b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/jiangfei/androidstu/mls/MarathonF5/Android/malasong/sample/build/intermediates/pre-dexed/debug/classes_237b9145d4c9a6abf760ad5861ff133170c6367f.jar" />
+    </item>
+
+</items>
